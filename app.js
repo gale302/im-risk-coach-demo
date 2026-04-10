@@ -9,7 +9,7 @@ const riskRules = [
 
 const scenarios = [
   {
-    id: 'A',
+    id: 'A',s
     name: '고객 A · 단순 잔액 부족형',
     customer: '김가상',
     dueDate: '2026-04-15',
